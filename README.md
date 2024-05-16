@@ -14,6 +14,7 @@ webcam live streaming server whether Freaking HOchacha is working or not
   - maybe change web server into nginx. (currently springboot, hard to maintain and lots of overhead to build binary)
 - AI recognition for monitoring behavior whether he is concentrating or not
   - some Fancy-ai processing would be applied on edge device or web server (but, processing in web server charges bill)
+- spine keeper
 ## Dependency
 - FFmpeg
 - nginx
