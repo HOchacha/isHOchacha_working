@@ -7,7 +7,9 @@ webcam live streaming server whether Freaking HOchacha is working or not
 ## Features what I want to add
 - Video Streaming
 - Secure Communication with Enanbling TLS
+  - make some PKI System for trusting between device
 - Some of Network Tricking -> forwarding video stream from edge device to AWS VPC
+  - http://hochacha.com/isworking -> this link could be main page for monitoring video
 - AI recognition for monitoring behavior whether he is concentrating or not
 ## Dependency
 - FFmpeg
@@ -16,4 +18,4 @@ webcam live streaming server whether Freaking HOchacha is working or not
 - Maybe baremetal device used for monitoring
   - One for lab, One for home
 
-link: http://hochacha.com/isworking
+
