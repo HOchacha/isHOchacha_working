@@ -4,4 +4,16 @@
 
 webcam live streaming server whether Freaking HOchacha is working or not
 
+## Features what I want to add
+- Video Streaming
+- Secure Communication with Enanbling TLS
+- Some of Network Tricking -> forwarding video stream from home to AWS VPC
+- AI recognition for monitoring behavior whether he is concentrating or not
+## Dependency
+- FFmpeg
+- nginx
+## Hosting Infrastructure
+- Maybe baremetal device used for monitoring
+  - One for lab, One for home
+
 link: http://hochacha.com/isworking
