@@ -18,7 +18,10 @@ webcam live streaming server whether Freaking HOchacha is working or not
 - FFmpeg
 - nginx
 ## Hosting Infrastructure
-- Maybe baremetal device used for monitoring
+- Maybe baremetal device
   - One for lab, One for home
+- edge device
+  - android phone and raspi (may be just do raspi first)
+  - after raspi, make some android app
 
 
